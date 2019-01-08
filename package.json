@@ -1,6 +1,6 @@
 {
     "name": "test.unity.package.manager",
-    "displayName": "TestUPM",
+    "displayName": "test.unity.package.manager",
     "version": "1.0.0",
     "unity": "2018.3",
     "author": "hidenami-i",
